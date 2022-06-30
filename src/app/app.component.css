@@ -1,0 +1,53 @@
+body{
+    background: #352f5b;
+    width: 100% !important;
+}
+.container{
+    max-width: 400px;
+}
+h1{
+    font-size: 3em;
+}
+input[type=text],
+input[type=text]:focus{
+    color:#fff;
+    border: none;
+    background: rgb(0, 0, 0, 0.2);
+    max-width: 400px;
+}
+.todos li{
+    background: #423a6f;
+}
+.delete{
+    cursor: pointer;
+}
+.filtered{
+    display: none !important;
+}
+
+
+.clock{
+    font-size: 3em;
+    text-align: center;
+    margin: 20px auto;
+    color: yellow;
+    font-family: Arial;
+}
+.clock span{
+    padding: 20px;
+    background: #444;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
